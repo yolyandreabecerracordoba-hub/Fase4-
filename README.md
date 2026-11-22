@@ -10,4 +10,4 @@ POO en Python sin base de datos. Ejecutar: `python main.py` (Python 3.8+). Los e
 | `reserva.py` | `Reserva` (confirmar, cancelar, procesar) |
 | `excepciones.py` | Excepciones personalizadas |
 | `logger.py` | Configuración del log |
-| `main.py` | Simulación de 14 operaciones válidas e inválidas |
+| `main.py` | Simulación de 15 operaciones válidas e inválidas |
